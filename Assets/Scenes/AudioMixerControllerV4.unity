@@ -359,7 +359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Text_Color: {r: 0, g: 0, b: 0, a: 1}
   TextStyle: 0
-  Background_Color: {r: 0.049439307, g: 0.7916398, b: 0.9528302, a: 1}
+  Background_Color: {r: 0.9150943, g: 0.69598395, b: 0.21150766, a: 1}
   Custom_Inactive_Colors: 0
   Text_Color_Inactive: {r: 0, g: 0, b: 0, a: 1}
   TextStyle_Inactive: 0
@@ -592,7 +592,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Text_Color: {r: 0, g: 0, b: 0, a: 1}
   TextStyle: 0
-  Background_Color: {r: 0.45545566, g: 0.8396226, b: 0.5622644, a: 1}
+  Background_Color: {r: 0.31523672, g: 0.79671556, b: 0.8679245, a: 1}
   Custom_Inactive_Colors: 0
   Text_Color_Inactive: {r: 0, g: 0, b: 0, a: 1}
   TextStyle_Inactive: 0
